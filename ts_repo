@@ -1,0 +1,5 @@
+echo "g D00" >>README.md
+git inst
+git add README.md 
+git commit -m "first commit"
+git remote add origin https://github.com/tskomanaCAMPAS.tmk.JHB/D00.git
